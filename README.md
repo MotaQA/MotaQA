@@ -1,7 +1,7 @@
 # Olá, me chamo Danilo 🚀
 ## Estudante e apaixonado por qualidade de software 💻
 
-- 🔍 Você pode encontrar meus projetos aqui [portfólio](#http://bit.ly/4jGr44B)
+- 🔍 Você pode encontrar meus projetos aqui [portfólio](https://dan100motal.wixsite.com/portf)
 - 🎯 Estou procurando oportunidades de emprego
 - 🛠️ Atualmente aprendendo Cypress e automação de testes
 - ⚡ Aprendo rápido e trabalho bem em equipe
