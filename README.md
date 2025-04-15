@@ -3,7 +3,7 @@
 
 - 🔍 Você pode encontrar meus projetos aqui [portfólio](https://dan100motal.wixsite.com/portf)
 - 🎯 Estou procurando oportunidades de emprego
-- 🛠️ Atualmente aprendendo Cypress e automação de testes
+- 🛠️ Atualmente aprendendo Banco de Dados
 - ⚡ Aprendo rápido e trabalho bem em equipe
 - 📫 Como me encontrar: [LinkedIn](http://bit.ly/4jGr44B) ou danilo.dev14@gmail.com
 
