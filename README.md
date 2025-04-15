@@ -1,11 +1,11 @@
-# Olá, me chamo Danilo 🚀
-## Estudante e apaixonado por qualidade de software 💻
+# Hello! My name is Danilo 🚀
+## Student and passionate about software quality 💻
 
-- 🔍 Você pode encontrar meus projetos aqui [portfólio](https://dan100motal.wixsite.com/portf)
-- 🎯 Estou procurando oportunidades de emprego
-- 🛠️ Atualmente aprendendo Banco de Dados
-- ⚡ Aprendo rápido e trabalho bem em equipe
-- 📫 Como me encontrar: [LinkedIn](http://bit.ly/4jGr44B) ou danilo.dev14@gmail.com
+- 🔍 You can find my projects here [portfólio](https://dan100motal.wixsite.com/portf)
+- 🎯 Looking for new opportunities
+- 🛠️ Currently learning Database
+- ⚡ Fast learner | Team player
+- 📫 How to find me: [LinkedIn](http://bit.ly/4jGr44B) | danilo.dev14@gmail.com
 
 <!---
 MotaQA/MotaQA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
