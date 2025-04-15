@@ -1,7 +1,7 @@
 # Hello! My name is Danilo 🚀
 ## Student and passionate about software quality 💻
 
-- 🔍 You can find my projects here [portfólio](https://dan100motal.wixsite.com/portf)
+- 🔍 You can also find my projects here [portfólio](https://dan100motal.wixsite.com/portf)
 - 🎯 Looking for new opportunities
 - 🛠️ Currently learning Database
 - ⚡ Fast learner | Team player
