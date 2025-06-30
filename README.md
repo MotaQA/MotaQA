@@ -3,7 +3,7 @@
 
 - 🔍 You can also find my projects here [portfólio](https://dan100motal.wixsite.com/portf)
 - 🎯 Looking for new opportunities
-- 🛠️ Currently learning Database SQL
+- 🛠️ Currently learning Mobile Automation
 - ⚡ Fast learner | Team player
 - 📫 How to find me: [LinkedIn](http://bit.ly/4jGr44B) | danilo.dev14@gmail.com
 
